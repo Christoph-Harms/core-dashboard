@@ -3,6 +3,8 @@ A Slacktime Project.
 
 This will be a rails app we use in our office at @plentymarkets. It will run on the RasPi and is intended to provide a cumulated view of our trello cards, unanswered mentions of our team in the support forums and unanswered mentions of our team on Github.
 
+![Mockup for the landing page](/docs/Landing%20Page.png?raw=true)
+
 See the `docs` folder for more documentation.
 
 ## Installation
